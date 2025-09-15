@@ -1,2 +1,2 @@
 # pythonanalytics
-I analyze different data frames with python.
+I analyze 10 key business questions of an Instacart data set using python. For instance, I analyze different demographics and their preferred types of items.
